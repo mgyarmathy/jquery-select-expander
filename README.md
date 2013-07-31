@@ -82,10 +82,6 @@ If you're a fan of clean, semantic code, and you probably hate having to write t
 
 Sure, most editors allow you to collapse and hide these elements, but how about we try something a little cleaner?
 
-```javascript
-$('select').selectExpander();
-```
-
 ```html
 <select data-from="state"></select>
 ```
