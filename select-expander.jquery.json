@@ -7,7 +7,7 @@
         "form",
         "input"
     ],
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": {
         "name": "@mgyarmathy_"
     },
@@ -17,9 +17,9 @@
             "url": "https://github.com/mgyarmathy/jquery-select-expander/blob/master/LICENSE"
         }
     ],
-    "bugs": "https: //github.com/mgyarmathy/jquery-select-expander/issues",
-    "homepage": "https: //github.com/mgyarmathy/jquery-select-expander",
-    "download": "https: //github.com/mgyarmathy/jquery-select-expander/archive/master.zip",
+    "bugs": "https://github.com/mgyarmathy/jquery-select-expander/issues",
+    "homepage": "https://github.com/mgyarmathy/jquery-select-expander",
+    "download": "https://github.com/mgyarmathy/jquery-select-expander/archive/master.zip",
     "dependencies": {
         "jquery": ">=1.6.4"
     }
