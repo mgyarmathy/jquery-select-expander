@@ -1,7 +1,7 @@
 jquery-select-expander
 ======================
 
-If you're a fan of clean, semantic code, and you probably hate having to write this when building HTML forms:
+If you're a fan of clean, semantic code, you probably hate having to write this when building HTML forms:
 
 ```html
 <select>
